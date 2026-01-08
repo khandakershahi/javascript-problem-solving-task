@@ -8,4 +8,4 @@ function getCount(str) {
     }
     return vowelsCount;
 }
-console.log(`Vowels count is: ${getCount('education')}`);
+console.log(getCount('education'));

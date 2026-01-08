@@ -10,4 +10,4 @@ function findMax(arr) {
     return max;
 }
 
-console.log(`Max number of the array is: ${findMax([5, 1, 9, 3])}`);
+console.log(findMax([5, 1, 9, 3]));

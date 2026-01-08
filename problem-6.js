@@ -8,4 +8,4 @@ function sumOfArray(arr) {
     return sum;
 }
 
-console.log(`Sum of the Array is: ${sumOfArray([1, 2, 3, 4])}`); 
+console.log(sumOfArray([1, 2, 3, 4])); 

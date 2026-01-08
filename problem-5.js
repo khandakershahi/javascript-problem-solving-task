@@ -11,5 +11,5 @@ function duplicatesRemove(arr) {
 }
 
 
-console.log(`After removing the duplicates, the array is:[${duplicatesRemove([1, 2, 2, 3, 4, 4])}]`);
+console.log(duplicatesRemove([1, 2, 2, 3, 4, 4]));
 

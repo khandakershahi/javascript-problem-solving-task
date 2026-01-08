@@ -6,4 +6,4 @@ function string(str) {
 
     return reversedString;
 }
-console.log(`The Revers string is: ${string("hello")} `);
+console.log(string("hello"));
